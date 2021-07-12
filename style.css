@@ -1,0 +1,21 @@
+body
+{
+  color: white;
+  background  :url("https://cdn.pixabay.com/photo/2020/10/27/19/44/yosemite-5691728_1280.jpg");
+  background-size: cover;
+}
+.heading
+{
+  width: 80%;
+  font-size: 22px;
+}
+#camera 
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.name_of_objects, #result_object_name  , #result_object_accuracy
+{
+  color: yellow;
+}
